@@ -1,0 +1,57 @@
+﻿ADVENTURE GAME SCENES
+
+Location 1:
+Heading: Scene 1 - The Enchanted Forest
+You are in an enchanted forest. There are two paths. Which way do you go?
+Go Left: Location 4
+Go Right: Location 2 
+
+Location 2:
+Heading: Lost in the Enchanted Forest
+You are very lost deep in the Forest
+Go Left: Location 4
+Go Right: Location 2
+
+Location 4:
+Heading: The Spider Clearing
+You are in clearing lost deep in the enchanted forest. There is a fearsome giant spider. What do you do?
+Attack the spider: Location 6
+Shout for your mum: Location 7
+Offer the Spider your bottle of Coca Cola: Location 8
+
+Location 5:
+Heading: A Clearing in the Enchanted Forest
+You are very lost deep in the Forest
+Go Left: Location 5
+Go Right: Location 2
+
+Location 6:
+Heading: OOOPS!
+The Spider laughs at your puny lack of weapons. He bites you filling you with venom. He then slowly sucks out your insides. You are dead.
+Try again?: Location 1
+
+Location 7:
+Heading: Your Mom
+As if by magic, your Mum appears.
+She tells you off for making so much noise and tells you not to be so scared of spiders.
+She gives you the four pairs of roller skates that you left on the stairs for your little brother to play with. She tells you to put them away.
+Attack the spider: Location 6
+Give the spider your Coca Cola: Location 8
+Give the spider your roller skates: Location 9
+
+Location 8:
+Heading: Coke is it!
+The spider drinks down your 3 litre extra large coke bottle in one huge gulp.
+He smiles sweetly at the lovely sugary Coke goodness.
+He swells up and explodes, showering the whole forest with spider innards and worse, phosphoric acid from the Coke™.
+Everything DIES.
+Try again?: Location 1
+
+Location 9:
+Heading: Spider on Skates! Yikes!
+The spider tries on the roller skates; however, as everybody knows, there is nothing funnier than a deadly venomous spider wearing roller skates.
+Everybody laughs at the spider. He is so embarrassed he runs away and hides. You escape in all the confusion.
+You claim an extremely valuable Spider's egg
+The End
+Play Again?: Location 1
+
